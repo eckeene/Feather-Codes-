@@ -8,7 +8,7 @@
 
 ## Datalogger Locations
 ### 1. Marcellus Library
-    - Raw Data
-    - Rating Curve
-    - Computed data
+- Raw Data
+- Rating Curve
+- Computed data
 ### 2. Camillus Kayak Shop
