@@ -12,3 +12,6 @@
 - Rating Curve
 - Computed data
 ### 2. Camillus Kayak Shop
+- Raw Data
+- Rating Curve
+- Computed data
