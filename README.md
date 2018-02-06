@@ -10,7 +10,7 @@
 
 ### 1. Marcellus Library
 - Raw Data
-- Rating Curve
+- Rating Curve                        {google_map}Marcellus Library{/google_map}
 - Computed data
 
 ### 2. Camillus Kayak Shop
