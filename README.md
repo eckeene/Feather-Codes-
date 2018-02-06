@@ -7,12 +7,13 @@
 - [ScanNetworks.ino](https://github.com/nmcloggers/Feather-Codes-/blob/master/ScanNetworks.ino)
 
 ## Datalogger Locations
-### 1. Marcellus Library
+
+### Marcellus Library
 - Raw Data
 - Rating Curve
 - Computed data
 
-### 2. Camillus Kayak Shop
+### Camillus Kayak Shop
 - Raw Data
 - Rating Curve
 - Computed data
